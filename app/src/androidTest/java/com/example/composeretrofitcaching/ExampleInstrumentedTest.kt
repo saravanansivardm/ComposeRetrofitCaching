@@ -1,4 +1,4 @@
-package com.example.copypastebaseproject
+package com.example.composeretrofitcaching
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.example.copypastebaseproject.ui.theme
+package com.composeretrofitcaching.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

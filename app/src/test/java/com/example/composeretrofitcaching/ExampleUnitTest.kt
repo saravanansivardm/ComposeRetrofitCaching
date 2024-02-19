@@ -1,4 +1,4 @@
-package com.example.copypastebaseproject
+package com.example.composeretrofitcaching
 
 import org.junit.Test
 
